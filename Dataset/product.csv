@@ -1,0 +1,801 @@
+product_id,product_name,price,category_id,cogs
+1,Nova Bluetooth Speaker,23238.1,1,18765.99
+2,Urbano Power Bank 10000mAh,1589.44,1,1283.16
+3,Nova Smartwatch,18337.9,1,14406.4
+4,Zentra Wireless Earbuds,16544.81,1,13755.31
+5,Kraft Wireless Earbuds,13262.69,1,9447.12
+6,"Orbit LED TV 43""",18918.34,1,14027.07
+7,TrueLine Power Bank 10000mAh,24879.46,1,18098.75
+8,Orbit Bluetooth Headphones,11369.43,1,6671.21
+9,Vivid Smartwatch,672.7,1,466.77
+10,"AXOM LED TV 43""",1914.18,1,1379.91
+11,"Nova LED TV 43""",22649.69,1,18139.51
+12,Orbit Smartwatch,6064.42,1,4452.15
+13,"Orbit LED TV 43""",3437.95,1,2844.66
+14,Urbano Bluetooth Headphones,19647.79,1,15376.83
+15,"Nova LED TV 43""",2558.73,1,1665.4
+16,TrueLine Digital Camera,11755.56,1,8877.52
+17,AXOM Smartwatch,10155.14,1,6283.55
+18,Urbano Smartwatch,4911.01,1,3377.3
+19,TrueLine Wireless Earbuds,4709.68,1,3117.43
+20,Nimbus Smartwatch,20229.35,1,16175.15
+21,AXOM Smartwatch,16355.8,1,11272.51
+22,Nova Bluetooth Speaker,23170.22,1,18467.67
+23,TrueLine Wireless Earbuds,12218.18,1,7023.15
+24,AXOM Digital Camera,4241.23,1,2123.81
+25,Kraft Digital Camera,23173.97,1,17955.08
+26,TrueLine Power Bank 10000mAh,17460.3,1,13194.34
+27,Zentra Bluetooth Headphones,4868.96,1,2805.47
+28,Craze Bluetooth Speaker,18433.07,1,9609.81
+29,AXOM Home Theater System,1396.04,1,930.99
+30,AXOM Wireless Earbuds,24025.36,1,12686.33
+31,Nova Wireless Earbuds,14936.62,1,10998.2
+32,"TrueLine LED TV 43""",3129.18,1,2539.64
+33,"Craze LED TV 43""",14923.8,1,10697.13
+34,Craze Digital Camera,14195.89,1,8669.85
+35,Urbano Power Bank 10000mAh,16792.69,1,10242.94
+36,TrueLine Power Bank 10000mAh,3402.33,1,2469.84
+37,Vivid Bluetooth Headphones,23236.11,1,19228.04
+38,Nimbus Bluetooth Speaker,15585.81,1,10864.05
+39,Nova Smartwatch,13510.21,1,9147.22
+40,Vivid Wireless Earbuds,22039.47,1,17802.26
+41,Kraft Mobile Tripod,4070.01,2,3222.68
+42,Craze USB-C Cable,24598.75,2,19248.15
+43,Orbit Smartphone 128GB,7589.56,2,5556.97
+44,Kraft Screen Protector,3018.4,2,1622.28
+45,Kraft Screen Protector,7151.64,2,4103.04
+46,Urbano Mobile Tripod,17234.3,2,13761.92
+47,Kraft Phone Holder,22647.61,2,18030.58
+48,TrueLine Phone Case,20759.3,2,10699.97
+49,Zentra Mobile Tripod,15982.27,2,9456.46
+50,Orbit Phone Holder,17685.84,2,12314.96
+51,Nova Phone Case,23634.52,2,17533.43
+52,Orbit Screen Protector,1045.3,2,657.73
+53,TrueLine Screen Protector,3317.02,2,2016.38
+54,Vivid Smartphone 128GB,5370.4,2,3154.23
+55,Vivid Phone Case,19535.89,2,15813.27
+56,Craze Selfie Stick,18774.52,2,15470.53
+57,Zentra Fast Charger 20W,24408.72,2,19130.82
+58,AXOM Selfie Stick,4607.11,2,3794.28
+59,Urbano Selfie Stick,6780.12,2,5258.53
+60,TrueLine Phone Case,21823.34,2,17469.75
+61,Urbano Fast Charger 20W,20442.18,2,13514.45
+62,Urbano USB-C Cable,5689.65,2,4159.2
+63,Vivid Selfie Stick,7073.29,2,3708.51
+64,Vivid USB-C Cable,16090.82,2,10296.31
+65,AXOM Mobile Tripod,3016.24,2,2532.56
+66,Craze Screen Protector,24068.98,2,14270.82
+67,Craze Phone Case,10948.91,2,8266.33
+68,TrueLine Mobile Tripod,15214.29,2,10330.47
+69,Craze Selfie Stick,4873.46,2,2512.44
+70,AXOM Selfie Stick,13070.02,2,10224.4
+71,Vivid Fast Charger 20W,10867.74,2,9043.11
+72,Craze Mobile Tripod,7950.8,2,6335.24
+73,Orbit USB-C Cable,7835.72,2,5037.88
+74,Kraft Selfie Stick,13927.15,2,7898.7
+75,Zentra Selfie Stick,15445.55,2,9349.69
+76,Kraft Smartphone 128GB,7279.81,2,4735.23
+77,Nimbus Mobile Tripod,11128.38,2,8195.71
+78,Zentra Phone Holder,16522.44,2,9902.32
+79,Nova Mobile Tripod,20487.82,2,15630.12
+80,Urbano USB-C Cable,20193.09,2,11137.98
+81,"Urbano Laptop 15.6"" i5",24600.81,3,17563.65
+82,Nimbus Wireless Mouse,10448.86,3,7527.55
+83,"TrueLine 27"" Monitor",12435.27,3,7279.54
+84,"Nova Laptop 15.6"" i5",19493.75,3,11239.99
+85,AXOM Webcam HD,14001.53,3,11496.86
+86,Nimbus Wireless Mouse,3463.48,3,2294.99
+87,Nimbus Laptop Bag,15374.41,3,11557.65
+88,Orbit USB Hub,11230.95,3,6241.1
+89,Nimbus Webcam HD,6590.91,3,3865.79
+90,Orbit External Hard Disk 1TB,12192.24,3,7117.05
+91,Nova Webcam HD,17881.59,3,10408.39
+92,Vivid Laptop Bag,22341.72,3,11800.95
+93,Urbano Mechanical Keyboard,9668.43,3,5351.3
+94,"Nova 27"" Monitor",10459.47,3,6441.03
+95,TrueLine Webcam HD,1697.3,3,1343.43
+96,Craze USB Hub,23659.64,3,11991.56
+97,Nimbus USB Hub,296.52,3,184.77
+98,TrueLine USB Hub,13524.78,3,10239.91
+99,"Nimbus 27"" Monitor",5602.63,3,3655.95
+100,"TrueLine Laptop 15.6"" i5",8502.82,3,6272.53
+101,Zentra USB Hub,21036.57,3,17288.69
+102,"TrueLine Laptop 15.6"" i5",14858.54,3,10877.19
+103,TrueLine Wireless Mouse,3522.13,3,2330.22
+104,"Kraft Laptop 15.6"" i5",9570.73,3,5494.38
+105,Vivid Laptop Bag,19066.56,3,12063.3
+106,Kraft USB Hub,20897.54,3,13888.66
+107,"Vivid Laptop 15.6"" i5",5721.92,3,2998.38
+108,"AXOM Laptop 15.6"" i5",23747.85,3,13530.96
+109,"Craze Laptop 15.6"" i5",3936.7,3,2142.26
+110,Craze Wireless Mouse,23701.76,3,15708.62
+111,Vivid External Hard Disk 1TB,4319.56,3,3077.84
+112,Zentra Wireless Mouse,24123.31,3,12974.35
+113,"Kraft Laptop 15.6"" i5",14458.55,3,11824.33
+114,TrueLine USB Hub,23545.54,3,13407.19
+115,"Nova 27"" Monitor",17475.25,3,10582.21
+116,Craze Wireless Mouse,19598.49,3,12180.88
+117,Vivid USB Hub,1863.57,3,1354.14
+118,"TrueLine Laptop 15.6"" i5",20584.92,3,11052.84
+119,Nimbus Laptop Bag,17726.62,3,11565.21
+120,Craze External Hard Disk 1TB,20233.75,3,13928.11
+121,Nimbus Iron Box,10974.03,4,8294.82
+122,Vivid Ceiling Fan,21315.07,4,16855.02
+123,Kraft Microwave Oven,22058.53,4,12912.01
+124,Craze Iron Box,15316.74,4,9690.08
+125,Nimbus Air Fryer,21296.18,4,12003.46
+126,Vivid Room Heater,19976.13,4,12367.59
+127,Orbit Ceiling Fan,402.26,4,334.61
+128,Urbano Microwave Oven,18043.86,4,12107.47
+129,Nimbus Room Heater,16200.69,4,10883.42
+130,Nova Air Fryer,7461.75,4,4787.01
+131,Kraft Room Heater,16649.41,4,10475.1
+132,TrueLine Water Purifier,24916.29,4,17257.92
+133,Nimbus Water Purifier,6882.27,4,4046.71
+134,Urbano Microwave Oven,7991.37,4,6073.51
+135,Urbano Vacuum Cleaner,5527.16,4,3700.27
+136,Nova Ceiling Fan,20840.81,4,12581.31
+137,Zentra Water Purifier,7661.35,4,5729.21
+138,Kraft Vacuum Cleaner,1281.07,4,664.98
+139,Zentra Ceiling Fan,16001.06,4,12216.45
+140,AXOM Microwave Oven,14415.5,4,9576.06
+141,Vivid Iron Box,4731.44,4,2450.8
+142,Nova Iron Box,20579.57,4,13176.02
+143,Craze Microwave Oven,15791.73,4,8192.17
+144,Craze Vacuum Cleaner,23735.77,4,12575.53
+145,Nova Room Heater,14018.11,4,9050.95
+146,Orbit Room Heater,9602.39,4,7854.53
+147,Craze Ceiling Fan,24752.28,4,15021.74
+148,Craze Air Fryer,24008.7,4,12838.21
+149,Urbano Room Heater,6726.46,4,3554.37
+150,Zentra Room Heater,13867.01,4,7693.23
+151,Nimbus Electric Kettle,17280.87,4,11482.61
+152,Urbano Air Fryer,7309.41,4,4377.98
+153,Nova Iron Box,17231.52,4,14187.9
+154,TrueLine Room Heater,3002.19,4,1737.32
+155,Kraft Vacuum Cleaner,20691.78,4,10863.05
+156,Kraft Vacuum Cleaner,14936.84,4,11777.46
+157,Nimbus Ceiling Fan,3240.19,4,2401.1
+158,Kraft Electric Kettle,12586.73,4,8468.71
+159,Craze Microwave Oven,1140.54,4,742.73
+160,Craze Water Purifier,6371.64,4,3389.49
+161,Kraft Non-Stick Cookware Set,14469.74,5,11099.57
+162,Nimbus Steel Water Bottle,13046.25,5,8542.43
+163,Zentra Knife Set,24924.1,5,16264.46
+164,Nova Cutlery Set,11829.76,5,7605.61
+165,Nova Lunch Box,21464.67,5,13210.03
+166,Kraft Cutlery Set,16615.2,5,10636.36
+167,Nimbus Non-Stick Cookware Set,2338.29,5,1375.71
+168,TrueLine Dinner Set 24pc,21643.03,5,17070.39
+169,Orbit Non-Stick Cookware Set,11630.11,5,6035.69
+170,Craze Lunch Box,18947.61,5,13621.31
+171,Urbano Non-Stick Cookware Set,6786.35,5,3704.36
+172,Nimbus Knife Set,22039.04,5,14758.42
+173,Craze Non-Stick Cookware Set,20012.95,5,14978.17
+174,Orbit Knife Set,489.81,5,314.85
+175,Nova Blender Mixer Grinder,11616.98,5,6286.1
+176,Nimbus Steel Water Bottle,23326.43,5,14046.05
+177,TrueLine Knife Set,20892.89,5,17614.5
+178,Nimbus Blender Mixer Grinder,13848.94,5,8783.76
+179,Nova Steel Water Bottle,7014.75,5,5446.97
+180,Vivid Pressure Cooker,23366.07,5,15835.38
+181,Kraft Non-Stick Cookware Set,18192.37,5,14428.67
+182,Zentra Cutlery Set,11246.7,5,7529.88
+183,Orbit Lunch Box,19107.39,5,12076.32
+184,Urbano Lunch Box,24522.25,5,14310.74
+185,Urbano Pressure Cooker,21421.92,5,13790.82
+186,Nimbus Lunch Box,17674.91,5,13857.01
+187,Zentra Pressure Cooker,12458.92,5,6390.89
+188,Nova Lunch Box,21873.63,5,14307.7
+189,AXOM Cutlery Set,18102.73,5,11648.97
+190,Nova Steel Water Bottle,11816.84,5,9916.94
+191,Craze Lunch Box,17363.71,5,12631.11
+192,Orbit Lunch Box,9593.23,5,5859.85
+193,Orbit Cutlery Set,1042.09,5,546.0
+194,Urbano Knife Set,18707.14,5,12195.0
+195,Nova Dinner Set 24pc,11175.41,5,8302.22
+196,AXOM Non-Stick Cookware Set,8210.71,5,4266.63
+197,Vivid Lunch Box,10852.57,5,6353.84
+198,Craze Pressure Cooker,17092.74,5,9623.55
+199,Nova Steel Water Bottle,15295.87,5,9695.91
+200,Nimbus Blender Mixer Grinder,22833.8,5,12560.67
+201,Kraft Bean Bag,11570.33,6,8485.61
+202,Kraft Bean Bag,16988.63,6,9433.64
+203,Vivid Bean Bag,24693.14,6,14932.04
+204,Kraft Coffee Table,11502.37,6,6967.48
+205,Nimbus Coffee Table,2800.33,6,1773.95
+206,Craze Wardrobe 3-Door,7502.43,6,5587.42
+207,TrueLine Study Table,6970.84,6,4866.17
+208,Craze Study Table,18667.53,6,14775.23
+209,Urbano Sofa Set 3-Seater,15235.57,6,9496.52
+210,Craze Bed Frame Queen,6378.08,6,4875.74
+211,Nova Bookshelf,22599.58,6,16412.25
+212,Nimbus Sofa Set 3-Seater,979.11,6,614.59
+213,Nova Bookshelf,22754.25,6,13979.11
+214,Zentra Coffee Table,5139.75,6,3984.74
+215,Orbit Wardrobe 3-Door,12619.6,6,7513.52
+216,Kraft Bookshelf,22864.12,6,18987.87
+217,Vivid Sofa Set 3-Seater,20135.18,6,13368.07
+218,Zentra Office Chair,18890.66,6,10937.03
+219,Orbit Coffee Table,9239.51,6,7176.68
+220,Kraft Study Table,13483.82,6,8888.2
+221,Craze Sofa Set 3-Seater,9618.48,6,6958.9
+222,Nova Wardrobe 3-Door,16919.69,6,11251.88
+223,Craze Wardrobe 3-Door,5650.97,6,2950.52
+224,Kraft Bean Bag,16283.6,6,8806.77
+225,AXOM Study Table,7713.46,6,5186.67
+226,Urbano Office Chair,22198.39,6,12153.23
+227,Vivid Bean Bag,16811.58,6,12778.47
+228,Craze Coffee Table,18595.39,6,10303.39
+229,Nova Coffee Table,20867.27,6,14930.08
+230,AXOM Sofa Set 3-Seater,17303.47,6,9967.57
+231,Urbano Bean Bag,21407.94,6,11448.41
+232,Orbit Wardrobe 3-Door,22557.15,6,16369.48
+233,TrueLine Study Table,7005.65,6,5876.85
+234,Nova Bean Bag,16619.8,6,12042.65
+235,AXOM Study Table,19701.85,6,11530.49
+236,Craze Bookshelf,5249.36,6,4149.28
+237,Craze Bed Frame Queen,5516.39,6,4437.35
+238,Zentra Wardrobe 3-Door,19747.8,6,13993.16
+239,Zentra Sofa Set 3-Seater,24690.05,6,17013.31
+240,Nova Bookshelf,16577.28,6,8438.22
+241,Vivid Men's Cotton T-Shirt,19781.12,7,11537.85
+242,AXOM Men's Kurta,4480.02,7,2322.17
+243,Orbit Men's Blazer,2974.19,7,1553.26
+244,Vivid Men's Shorts,12903.96,7,6944.51
+245,Craze Men's Jacket,1227.62,7,950.34
+246,Nimbus Men's Track Pants,16137.02,7,8244.45
+247,TrueLine Men's Shorts,10742.9,7,5777.39
+248,Nova Men's Shorts,22496.78,7,13784.66
+249,Nova Men's Jeans,3285.86,7,2360.93
+250,TrueLine Men's Kurta,24866.5,7,17050.83
+251,Orbit Men's Shorts,15194.86,7,8124.88
+252,Orbit Men's Formal Shirt,18062.87,7,10390.81
+253,Urbano Men's Shorts,10433.27,7,8238.08
+254,TrueLine Men's Blazer,18280.87,7,11140.21
+255,Kraft Men's Kurta,9451.38,7,5230.62
+256,Nova Men's Shorts,2416.94,7,1280.68
+257,Nova Men's Blazer,18653.04,7,11759.37
+258,Orbit Men's Jeans,1640.53,7,1369.54
+259,Nova Men's Kurta,10358.59,7,8346.56
+260,AXOM Men's Blazer,24214.71,7,17195.92
+261,Nova Men's Kurta,14511.28,7,8336.13
+262,Urbano Men's Shorts,21204.78,7,13200.82
+263,Nova Men's Kurta,19100.75,7,13388.38
+264,Orbit Men's Blazer,24367.48,7,19163.79
+265,Craze Men's Cotton T-Shirt,23237.74,7,18365.05
+266,AXOM Men's Track Pants,4633.34,7,3456.21
+267,Vivid Men's Track Pants,8872.93,7,4999.82
+268,Craze Men's Jeans,16485.01,7,8644.0
+269,Nova Men's Cotton T-Shirt,18690.88,7,10752.8
+270,Nimbus Men's Blazer,8621.27,7,5427.25
+271,Craze Men's Kurta,14966.16,7,12110.16
+272,Zentra Men's Jeans,18897.73,7,9778.0
+273,Kraft Men's Formal Shirt,11161.36,7,7237.08
+274,TrueLine Men's Shorts,6938.2,7,5302.38
+275,Vivid Men's Formal Shirt,10833.35,7,6490.65
+276,Orbit Men's Shorts,16728.24,7,8630.03
+277,Craze Men's Blazer,1511.33,7,863.8
+278,Zentra Men's Jacket,19139.4,7,11508.65
+279,AXOM Men's Formal Shirt,12510.03,7,8140.64
+280,TrueLine Men's Jeans,13384.67,7,7770.32
+281,Nova Women's Leggings,10017.22,8,7610.23
+282,AXOM Women's Jacket,11574.89,8,6102.88
+283,Craze Women's Leggings,10817.71,8,6940.08
+284,Kraft Women's Jacket,3012.06,8,1528.02
+285,Zentra Women's Leggings,20062.86,8,14371.91
+286,Nova Women's Leggings,11002.29,8,5908.8
+287,Craze Women's Jacket,10101.18,8,5328.64
+288,Vivid Women's Dress,5656.07,8,4370.4
+289,Orbit Women's Saree,15885.63,8,10892.96
+290,Vivid Women's Top,8874.83,8,7413.84
+291,Urbano Women's Jeans,2704.69,8,1594.66
+292,Craze Women's Jeans,3948.81,8,3023.62
+293,Zentra Women's Saree,23789.61,8,17123.33
+294,Craze Women's Ethnic Set,19032.95,8,12506.87
+295,Vivid Women's Leggings,3901.29,8,2043.89
+296,Kraft Women's Ethnic Set,19938.79,8,14096.66
+297,Orbit Women's Leggings,1993.64,8,1319.01
+298,AXOM Women's Kurti,9313.13,8,5592.32
+299,Craze Women's Saree,14912.88,8,9463.25
+300,Nimbus Women's Kurti,22739.89,8,15919.74
+301,Vivid Women's Top,15184.39,8,10256.73
+302,Nimbus Women's Kurti,2722.02,8,2217.61
+303,Nova Women's Leggings,12688.04,8,7110.32
+304,Nimbus Women's Top,24776.0,8,16932.51
+305,Vivid Women's Jeans,9415.37,8,5639.93
+306,Vivid Women's Jacket,17020.61,8,8822.26
+307,Nova Women's Leggings,8342.82,8,5800.66
+308,Kraft Women's Jacket,6412.1,8,5117.16
+309,Vivid Women's Jeans,2175.32,8,1592.91
+310,Kraft Women's Leggings,24197.26,8,18014.09
+311,Zentra Women's Jacket,14936.77,8,12372.14
+312,Orbit Women's Dress,9510.48,8,7390.42
+313,Orbit Women's Jeans,2472.31,8,1816.31
+314,AXOM Women's Leggings,9160.55,8,5158.23
+315,Vivid Women's Top,23699.56,8,15883.32
+316,Zentra Women's Top,4000.39,8,2414.34
+317,Orbit Women's Saree,19306.24,8,15296.18
+318,Vivid Women's Kurti,21928.36,8,15707.53
+319,Zentra Women's Jacket,4181.84,8,3307.71
+320,Nimbus Women's Jeans,1235.76,8,775.45
+321,Nimbus Kids Jacket,15323.3,9,11696.84
+322,Urbano Kids Ethnic Wear,13420.18,9,8163.68
+323,Urbano Kids Ethnic Wear,9290.85,9,7725.3
+324,Nimbus Kids Ethnic Wear,19270.55,9,14883.48
+325,Zentra Kids Sweater,20449.75,9,15959.82
+326,Kraft Kids Shorts,1446.67,9,966.67
+327,Orbit Kids School Uniform,23367.19,9,17501.8
+328,Kraft Kids Frock,2234.3,9,1242.52
+329,Orbit Kids Ethnic Wear,3811.61,9,2489.42
+330,Nimbus Kids Jacket,22133.05,9,18274.49
+331,AXOM Kids Sweater,10001.88,9,6310.05
+332,Nova Kids Sweater,9466.58,9,4826.68
+333,Vivid Kids Frock,19815.81,9,10862.23
+334,Nimbus Kids Pajama Set,17447.39,9,9571.24
+335,Nimbus Kids Ethnic Wear,15441.4,9,12616.4
+336,Kraft Kids T-Shirt,5509.02,9,3042.81
+337,Nova Kids Sweater,19437.89,9,11335.67
+338,AXOM Kids Frock,6075.22,9,4396.23
+339,Nova Kids Ethnic Wear,2904.82,9,2372.66
+340,Orbit Kids T-Shirt,14439.93,9,10851.47
+341,TrueLine Kids Pajama Set,188.87,9,117.76
+342,Zentra Kids Sweater,16659.63,9,8829.02
+343,Nova Kids School Uniform,23842.08,9,16461.26
+344,TrueLine Kids T-Shirt,21852.29,9,11259.11
+345,Vivid Kids Sweater,6453.21,9,3263.29
+346,Vivid Kids Frock,6141.98,9,4483.56
+347,Craze Kids Frock,18419.4,9,11353.38
+348,Vivid Kids T-Shirt,13718.44,9,10765.25
+349,Nimbus Kids Shorts,24523.36,9,16369.0
+350,Zentra Kids Shorts,1718.05,9,1325.76
+351,AXOM Kids Ethnic Wear,7442.05,9,3835.13
+352,AXOM Kids Jacket,7992.56,9,4863.69
+353,Orbit Kids Sweater,11913.98,9,6109.69
+354,Kraft Kids Jacket,9020.81,9,6975.74
+355,Kraft Kids School Uniform,3243.2,9,2039.35
+356,Nimbus Kids Sweater,22381.74,9,14219.69
+357,Nimbus Kids Shorts,17347.9,9,10904.39
+358,Nova Kids Pajama Set,18217.97,9,9612.25
+359,Orbit Kids Shorts,7450.1,9,3992.58
+360,Kraft Kids School Uniform,7766.42,9,5521.28
+361,Zentra Boots,17290.66,10,10772.8
+362,Vivid Running Shoes,15429.06,10,10063.28
+363,Nova Running Shoes,16828.92,10,10807.09
+364,AXOM Sandals,3698.07,10,2635.43
+365,AXOM Flip Flops,3286.82,10,1914.9
+366,Vivid Loafers,9663.93,10,6750.6
+367,Nimbus Sandals,23728.26,10,14953.66
+368,Craze Formal Shoes,3571.72,10,2244.58
+369,Kraft Loafers,6352.85,10,3428.68
+370,Nimbus Sandals,13015.97,10,10669.71
+371,Kraft Formal Shoes,19407.87,10,14486.29
+372,Craze Sneakers,7246.59,10,5947.77
+373,Urbano Flip Flops,3197.54,10,2553.2
+374,Zentra Flip Flops,22482.17,10,14743.56
+375,Vivid Formal Shoes,16745.82,10,12531.55
+376,Kraft Sports Slides,21306.35,10,15961.29
+377,Vivid Sandals,12792.58,10,6939.68
+378,Zentra Sneakers,6032.89,10,4059.58
+379,Orbit Loafers,14371.09,10,9536.54
+380,Craze Sandals,22123.52,10,11570.86
+381,Nimbus Boots,13213.54,10,10163.96
+382,Zentra Formal Shoes,24313.64,10,17622.98
+383,Nimbus Flip Flops,17050.71,10,10581.33
+384,Zentra Sandals,10900.56,10,8924.83
+385,Nova Running Shoes,13024.84,10,7898.83
+386,Vivid Sandals,23378.24,10,13534.0
+387,Nova Sports Slides,6377.54,10,4606.31
+388,Zentra Sports Slides,15681.81,10,11213.28
+389,Orbit Formal Shoes,16078.54,10,11369.67
+390,Zentra Sandals,16519.51,10,12426.33
+391,Craze Loafers,1173.68,10,941.67
+392,AXOM Formal Shoes,23721.39,10,18262.1
+393,Urbano Sports Slides,19208.93,10,12405.23
+394,Nimbus Running Shoes,22241.57,10,15367.86
+395,Nimbus Sports Slides,6235.22,10,4879.51
+396,Kraft Boots,11420.57,10,8462.81
+397,Nimbus Sandals,10478.2,10,6942.38
+398,Craze Loafers,3720.17,10,2981.79
+399,Vivid Loafers,24388.05,10,13310.22
+400,Orbit Loafers,14107.03,10,8629.14
+401,Nova Lipstick,6796.67,11,3988.09
+402,AXOM Shampoo 400ml,7361.77,11,4670.69
+403,Urbano Sunscreen SPF50,24072.74,11,19638.75
+404,Craze Trimmer,18070.04,11,10235.63
+405,Nimbus Body Lotion,24899.84,11,16518.19
+406,Nimbus Hair Dryer,725.93,11,603.13
+407,Urbano Lipstick,5496.34,11,3427.04
+408,Kraft Face Wash,12448.12,11,10068.27
+409,Kraft Lipstick,13486.77,11,10742.35
+410,Zentra Sunscreen SPF50,22079.02,11,16661.44
+411,Vivid Sunscreen SPF50,1274.27,11,659.95
+412,Vivid Perfume 100ml,13897.59,11,7306.46
+413,Orbit Lipstick,7101.06,11,6008.79
+414,Zentra Shampoo 400ml,24380.81,11,15551.7
+415,Orbit Trimmer,23482.87,11,17946.5
+416,Craze Perfume 100ml,12801.69,11,8641.49
+417,AXOM Face Wash,3555.35,11,2192.1
+418,Orbit Lipstick,11506.17,11,8194.59
+419,Vivid Body Lotion,23294.51,11,14244.26
+420,Craze Sunscreen SPF50,18522.09,11,11200.9
+421,Orbit Trimmer,20732.99,11,14229.44
+422,Nimbus Hair Dryer,20421.36,11,12843.51
+423,TrueLine Shampoo 400ml,14655.0,11,11414.25
+424,Craze Face Wash,11943.57,11,10014.38
+425,AXOM Perfume 100ml,14650.55,11,8199.61
+426,Zentra Sunscreen SPF50,20568.28,11,12027.69
+427,Urbano Shampoo 400ml,620.59,11,378.43
+428,TrueLine Body Lotion,17308.93,11,11140.58
+429,AXOM Lipstick,17688.51,11,12055.41
+430,Nimbus Trimmer,13208.11,11,8054.48
+431,Nimbus Body Lotion,22816.29,11,14141.87
+432,Kraft Trimmer,15310.4,11,8685.47
+433,Kraft Perfume 100ml,14018.45,11,8112.53
+434,Kraft Hair Dryer,17666.79,11,13101.41
+435,Vivid Lipstick,12073.12,11,8404.95
+436,Kraft Hair Dryer,3178.57,11,2342.03
+437,TrueLine Sunscreen SPF50,20486.68,11,17088.21
+438,Kraft Body Lotion,1195.35,11,997.35
+439,Vivid Shampoo 400ml,23111.64,11,16862.03
+440,Urbano Lipstick,5171.39,11,3560.51
+441,Zentra Face Mask Pack,2864.28,12,2174.88
+442,Urbano Hand Sanitizer,1411.52,12,1152.95
+443,Urbano Hand Sanitizer,1454.4,12,937.59
+444,Nova Weighing Scale,17077.62,12,9360.47
+445,TrueLine BP Monitor,16374.39,12,13234.22
+446,Nimbus Weighing Scale,16315.89,12,12474.62
+447,Vivid Face Mask Pack,7242.57,12,3771.26
+448,Craze Digital Thermometer,5920.67,12,4491.07
+449,Zentra Multivitamin Tablets,10534.44,12,8355.51
+450,TrueLine Multivitamin Tablets,19730.82,12,11152.04
+451,AXOM Face Mask Pack,380.29,12,265.74
+452,Vivid Digital Thermometer,7221.36,12,6110.61
+453,Zentra Weighing Scale,21298.83,12,14138.32
+454,Nova Hand Sanitizer,8367.5,12,6324.92
+455,Zentra Face Mask Pack,499.99,12,308.99
+456,Craze Face Mask Pack,16908.87,12,9597.58
+457,TrueLine Protein Powder,12954.72,12,6870.64
+458,Zentra Digital Thermometer,24544.88,12,16374.11
+459,AXOM Hand Sanitizer,6630.51,12,3861.82
+460,Vivid Face Mask Pack,7653.35,12,5763.04
+461,Kraft Multivitamin Tablets,16394.03,12,12172.06
+462,Nova Multivitamin Tablets,11715.07,12,6512.42
+463,Nova Face Mask Pack,16021.98,12,13285.79
+464,Craze First Aid Kit,5638.1,12,4708.24
+465,Zentra Weighing Scale,11456.22,12,9693.03
+466,TrueLine First Aid Kit,17593.23,12,14417.28
+467,Urbano Hand Sanitizer,17056.5,12,12085.13
+468,Orbit Digital Thermometer,11251.69,12,8397.34
+469,Craze Digital Thermometer,2938.39,12,2321.54
+470,Craze Hand Sanitizer,13486.0,12,7519.63
+471,Nova Weighing Scale,17055.34,12,12807.22
+472,Nova Weighing Scale,22487.4,12,14749.91
+473,Nimbus Multivitamin Tablets,3428.82,12,2212.96
+474,Orbit Multivitamin Tablets,11640.1,12,9107.45
+475,TrueLine Multivitamin Tablets,6473.26,12,3243.46
+476,Craze Hand Sanitizer,1964.78,12,1273.76
+477,Orbit Digital Thermometer,24853.97,12,20556.82
+478,Nimbus Digital Thermometer,938.61,12,603.62
+479,TrueLine BP Monitor,9455.35,12,7677.43
+480,TrueLine Weighing Scale,9484.79,12,7008.84
+481,Vivid Cookbook,3098.03,13,2625.57
+482,Orbit Comic Book,3314.58,13,2792.71
+483,AXOM Fiction Novel,24465.49,13,16197.41
+484,Orbit Comic Book,9575.02,13,5557.17
+485,Vivid Textbook,4004.77,13,2266.57
+486,AXOM Self-Help Book,20265.53,13,13106.41
+487,Urbano Fiction Novel,5271.13,13,2821.71
+488,Nimbus Fiction Novel,15004.95,13,11195.95
+489,Urbano Fiction Novel,18552.45,13,11888.28
+490,Orbit Children's Story Book,5549.14,13,4452.11
+491,Zentra Fiction Novel,12671.81,13,7618.83
+492,Craze Business Book,15008.25,13,11036.86
+493,Urbano Business Book,7648.85,13,4207.95
+494,TrueLine Children's Story Book,7617.45,13,3971.24
+495,TrueLine Cookbook,13962.89,13,7210.57
+496,TrueLine Business Book,19677.24,13,12033.76
+497,TrueLine Comic Book,3858.06,13,2437.37
+498,Urbano Textbook,21256.12,13,12865.43
+499,Nimbus Cookbook,22881.32,13,15944.51
+500,Orbit Comic Book,13320.3,13,8471.0
+501,Urbano Biography,8357.04,13,4409.8
+502,Vivid Textbook,2447.73,13,1844.62
+503,AXOM Children's Story Book,6821.27,13,5018.99
+504,Nova Fiction Novel,4825.86,13,3699.47
+505,Nimbus Children's Story Book,5340.89,13,4365.97
+506,AXOM Biography,5413.42,13,3066.75
+507,Nimbus Self-Help Book,22873.87,13,17006.02
+508,TrueLine Children's Story Book,22890.89,13,15868.6
+509,TrueLine Biography,11736.32,13,8532.92
+510,Kraft Biography,9087.17,13,7351.38
+511,Nova Textbook,20099.99,13,15132.17
+512,Urbano Business Book,9362.02,13,6037.34
+513,Zentra Children's Story Book,553.06,13,383.64
+514,Kraft Comic Book,3937.42,13,2423.3
+515,Craze Comic Book,20859.06,13,14074.77
+516,Kraft Business Book,19119.51,13,12829.52
+517,Nimbus Textbook,4330.61,13,3370.26
+518,Zentra Cookbook,18049.79,13,12109.8
+519,Orbit Fiction Novel,990.52,13,788.79
+520,AXOM Fiction Novel,10397.95,13,8265.23
+521,Nova Action Figure,17723.16,14,8918.29
+522,Vivid Educational Toy,1652.19,14,1194.87
+523,Nimbus Educational Toy,540.93,14,371.23
+524,AXOM Doll House,565.64,14,425.8
+525,AXOM Board Game,12630.07,14,9399.94
+526,Zentra Doll House,2809.36,14,1499.38
+527,Urbano Puzzle 500pc,4919.51,14,3366.22
+528,Kraft Soft Toy,19904.17,14,10502.57
+529,Nimbus Doll House,14190.3,14,12013.25
+530,Kraft Action Figure,17148.43,14,13663.07
+531,Nova Remote Control Car,10221.17,14,6459.87
+532,AXOM Educational Toy,15973.19,14,11915.93
+533,Nimbus Building Blocks Set,21156.45,14,15353.61
+534,Craze Soft Toy,24436.63,14,20547.39
+535,Urbano Remote Control Car,5403.71,14,4343.72
+536,Kraft Educational Toy,1307.06,14,687.54
+537,Orbit Board Game,14153.22,14,7239.59
+538,AXOM Soft Toy,24042.51,14,16961.09
+539,Nova Doll House,7587.03,14,5291.08
+540,Orbit Doll House,8393.49,14,6416.51
+541,Nova Puzzle 500pc,12594.7,14,10592.31
+542,Nova Remote Control Car,11011.64,14,8738.13
+543,Craze Soft Toy,19259.79,14,16066.53
+544,Vivid Doll House,886.2,14,527.88
+545,Nimbus Educational Toy,5819.24,14,4036.01
+546,TrueLine Doll House,4765.59,14,3360.01
+547,Nova Doll House,19338.36,14,11668.43
+548,Nova Action Figure,2188.64,14,1212.46
+549,TrueLine Puzzle 500pc,8019.45,14,4308.79
+550,Kraft Remote Control Car,11201.69,14,8585.77
+551,Zentra Building Blocks Set,2319.34,14,1509.53
+552,Nova Doll House,802.61,14,500.72
+553,Craze Building Blocks Set,15011.39,14,9210.25
+554,AXOM Doll House,7402.41,14,4705.93
+555,Orbit Building Blocks Set,22644.41,14,19074.76
+556,TrueLine Puzzle 500pc,4362.12,14,2591.63
+557,Nimbus Board Game,3776.48,14,2109.25
+558,TrueLine Board Game,7598.84,14,5881.0
+559,Kraft Soft Toy,23613.92,14,17765.1
+560,Craze Educational Toy,15474.22,14,10216.88
+561,Kraft Cricket Bat,318.17,15,203.15
+562,Vivid Badminton Racket,11089.54,15,7216.14
+563,Kraft Cricket Bat,8118.53,15,6750.94
+564,Nimbus Football,7957.45,15,6665.17
+565,Kraft Resistance Bands,18411.63,15,13284.28
+566,Vivid Football,9494.97,15,7460.89
+567,Vivid Badminton Racket,2980.11,15,2078.17
+568,Orbit Cricket Bat,818.87,15,617.86
+569,Nimbus Football,19972.49,15,15797.21
+570,TrueLine Dumbbell Set,16873.49,15,9258.7
+571,Urbano Skipping Rope,6429.14,15,3561.42
+572,TrueLine Badminton Racket,1988.03,15,1683.35
+573,Craze Cycling Helmet,10110.01,15,6847.66
+574,Orbit Badminton Racket,1063.61,15,892.32
+575,Nova Dumbbell Set,19258.51,15,14061.8
+576,Zentra Resistance Bands,16227.95,15,8365.57
+577,Vivid Badminton Racket,24148.06,15,15712.16
+578,Nova Yoga Mat,6579.65,15,4465.85
+579,Nimbus Football,9446.87,15,6254.51
+580,Vivid Cricket Bat,24942.91,15,16686.06
+581,TrueLine Skipping Rope,23025.61,15,12204.71
+582,Vivid Cricket Bat,7900.48,15,5209.31
+583,Orbit Football,12150.71,15,8100.35
+584,Nimbus Cycling Helmet,8074.9,15,4886.06
+585,AXOM Dumbbell Set,21252.12,15,15445.82
+586,Urbano Cricket Bat,12972.45,15,8992.1
+587,Orbit Resistance Bands,10745.28,15,7110.36
+588,Zentra Badminton Racket,4781.72,15,3490.93
+589,AXOM Badminton Racket,18474.1,15,14947.1
+590,Craze Cycling Helmet,10824.39,15,5429.05
+591,Urbano Football,7066.87,15,5274.12
+592,Craze Dumbbell Set,2678.54,15,2156.74
+593,Vivid Cricket Bat,8250.73,15,5446.66
+594,Nimbus Skipping Rope,13263.72,15,9598.8
+595,Craze Badminton Racket,9904.72,15,5348.36
+596,Nimbus Resistance Bands,15491.46,15,12157.83
+597,Craze Skipping Rope,14815.68,15,10893.06
+598,Nova Resistance Bands,6078.53,15,3288.07
+599,Zentra Resistance Bands,12844.0,15,8302.15
+600,Craze Cricket Bat,9685.19,15,5472.27
+601,Orbit Car Seat Cover,4296.61,16,2582.66
+602,Vivid Car Seat Cover,21073.33,16,15105.23
+603,AXOM Tyre Inflator,12192.53,16,6928.95
+604,Orbit Car Cover,12710.13,16,8556.96
+605,TrueLine Dash Cam,17797.04,16,11663.26
+606,Nova Car Seat Cover,14200.14,16,11055.64
+607,Kraft Car Air Freshener,962.47,16,556.98
+608,Zentra Car Charger,19551.39,16,13646.43
+609,Orbit Dash Cam,12843.53,16,8996.25
+610,Orbit Car Charger,20608.58,16,12950.47
+611,Nimbus Car Phone Mount,13726.88,16,11618.73
+612,Urbano Car Vacuum Cleaner,7548.07,16,6414.04
+613,Kraft Dash Cam,8812.14,16,6925.06
+614,Nova Dash Cam,19424.45,16,11323.12
+615,Craze Tyre Inflator,15874.35,16,8859.37
+616,Urbano Car Seat Cover,20366.22,16,15924.43
+617,Orbit Tyre Inflator,7134.96,16,4912.91
+618,Kraft Tyre Inflator,7339.93,16,4356.76
+619,Zentra Car Vacuum Cleaner,24074.88,16,18657.84
+620,Kraft Car Phone Mount,21696.13,16,11811.61
+621,Urbano Car Seat Cover,3784.15,16,2318.68
+622,TrueLine Car Air Freshener,12313.05,16,8644.98
+623,TrueLine Car Charger,9473.03,16,4986.89
+624,TrueLine Car Vacuum Cleaner,12962.99,16,7743.82
+625,Nimbus Tyre Inflator,23763.81,16,14604.08
+626,Nova Car Phone Mount,18313.66,16,12095.39
+627,Nova Tyre Inflator,19922.6,16,12734.54
+628,Urbano Car Cover,12443.67,16,7628.0
+629,Vivid Car Charger,13750.67,16,7503.85
+630,Vivid Dash Cam,22369.74,16,17152.87
+631,Nova Car Phone Mount,15710.56,16,12456.05
+632,Nova Car Phone Mount,23246.41,16,12908.6
+633,AXOM Dash Cam,24797.18,16,16111.47
+634,Kraft Car Seat Cover,4100.59,16,3388.95
+635,Nova Car Charger,16416.51,16,9646.94
+636,Zentra Tyre Inflator,1436.91,16,1033.08
+637,TrueLine Car Air Freshener,16438.81,16,12268.19
+638,Urbano Car Phone Mount,11998.65,16,6556.6
+639,Orbit Car Air Freshener,17047.57,16,8579.2
+640,Nova Tyre Inflator,24705.65,16,16004.56
+641,Nimbus Green Tea Pack,1910.08,17,1211.13
+642,Nova Cooking Oil 1L,7936.78,17,6415.67
+643,TrueLine Green Tea Pack,19370.49,17,14791.41
+644,Zentra Green Tea Pack,1850.03,17,1289.75
+645,Nimbus Green Tea Pack,8877.01,17,5100.46
+646,TrueLine Green Tea Pack,15459.49,17,10123.41
+647,Nova Almonds 500g,22430.33,17,12314.35
+648,Craze Cooking Oil 1L,18290.73,17,11395.81
+649,Vivid Spice Combo Pack,19808.26,17,11622.01
+650,Urbano Cooking Oil 1L,13901.91,17,9870.39
+651,AXOM Honey Jar,21220.12,17,15500.06
+652,Urbano Honey Jar,13016.07,17,8829.23
+653,Kraft Spice Combo Pack,16207.32,17,12549.82
+654,Nimbus Almonds 500g,9739.26,17,5691.42
+655,Orbit Cooking Oil 1L,22234.8,17,11211.31
+656,Vivid Coffee Powder,3429.77,17,2748.22
+657,Vivid Spice Combo Pack,13726.95,17,7693.54
+658,Nova Breakfast Cereal,564.73,17,295.71
+659,Urbano Honey Jar,1139.7,17,593.97
+660,Orbit Spice Combo Pack,7269.22,17,5447.7
+661,TrueLine Spice Combo Pack,17589.99,17,9302.46
+662,Kraft Green Tea Pack,2227.39,17,1175.3
+663,Zentra Almonds 500g,13479.3,17,8583.03
+664,Kraft Cooking Oil 1L,17512.1,17,13230.14
+665,AXOM Almonds 500g,6225.32,17,5127.3
+666,Nimbus Cooking Oil 1L,15365.58,17,7978.73
+667,Nova Green Tea Pack,464.72,17,254.68
+668,Zentra Basmati Rice 5kg,12485.86,17,7758.05
+669,Zentra Honey Jar,9390.96,17,7159.87
+670,Nova Honey Jar,19320.04,17,9858.53
+671,Kraft Spice Combo Pack,13167.78,17,7795.75
+672,Nimbus Cooking Oil 1L,11461.66,17,7175.5
+673,Craze Breakfast Cereal,4297.0,17,2385.09
+674,Craze Cooking Oil 1L,16901.89,17,9133.22
+675,AXOM Basmati Rice 5kg,21488.42,17,10836.63
+676,Nimbus Basmati Rice 5kg,9194.82,17,7558.87
+677,AXOM Green Tea Pack,13888.69,17,11387.08
+678,Urbano Spice Combo Pack,8146.78,17,5260.29
+679,Kraft Coffee Powder,20676.03,17,14474.0
+680,Orbit Cooking Oil 1L,16882.14,17,8752.3
+681,Orbit Dog Leash,24538.13,18,20463.03
+682,Nimbus Cat Litter Box,21670.9,18,16702.51
+683,Vivid Pet Bed,2296.68,18,1515.49
+684,Urbano Bird Cage,7396.14,18,5728.88
+685,Nimbus Dog Leash,9301.6,18,7814.74
+686,Orbit Dog Leash,19047.98,18,11158.2
+687,TrueLine Dog Food 3kg,744.17,18,513.14
+688,Vivid Dog Food 3kg,186.33,18,136.03
+689,Nova Pet Bed,5249.08,18,4430.7
+690,Nimbus Fish Tank,24035.45,18,20199.29
+691,Kraft Pet Shampoo,2461.71,18,2024.62
+692,Vivid Fish Tank,11542.68,18,8792.81
+693,Orbit Cat Litter Box,3467.82,18,2729.13
+694,Craze Cat Litter Box,14260.35,18,9301.23
+695,Urbano Pet Shampoo,7398.15,18,5902.39
+696,Vivid Fish Tank,8053.73,18,4793.46
+697,Urbano Cat Litter Box,3532.38,18,2718.35
+698,Zentra Cat Litter Box,2775.6,18,1824.54
+699,TrueLine Bird Cage,3150.31,18,1970.21
+700,Nimbus Dog Leash,7811.45,18,4630.26
+701,Nova Cat Litter Box,4066.74,18,3009.87
+702,Urbano Dog Food 3kg,20922.73,18,12861.78
+703,Urbano Cat Litter Box,24214.74,18,15465.6
+704,Kraft Dog Food 3kg,6615.14,18,5601.28
+705,TrueLine Dog Food 3kg,21386.84,18,14854.95
+706,Nova Dog Leash,11631.77,18,9088.64
+707,Nova Pet Shampoo,447.13,18,353.51
+708,Zentra Dog Leash,5073.61,18,3248.14
+709,Craze Cat Litter Box,14715.05,18,12082.53
+710,AXOM Cat Litter Box,24929.46,18,14190.16
+711,Zentra Pet Grooming Kit,2435.67,18,1940.12
+712,Nova Bird Cage,1211.0,18,800.89
+713,Craze Pet Shampoo,10913.94,18,8224.21
+714,AXOM Pet Grooming Kit,9660.83,18,6273.09
+715,Urbano Bird Cage,22721.36,18,13547.47
+716,Zentra Pet Grooming Kit,1011.04,18,724.62
+717,Kraft Dog Leash,12547.46,18,10150.55
+718,AXOM Pet Grooming Kit,2329.88,18,1477.27
+719,Urbano Fish Tank,16119.92,18,12557.73
+720,Orbit Dog Leash,19901.93,18,16842.83
+721,Nimbus Whiteboard,13681.27,19,9161.5
+722,TrueLine Whiteboard,6870.33,19,3497.84
+723,AXOM Printer Paper Ream,22409.75,19,17311.27
+724,Nimbus Notebook Pack,13306.39,19,10224.56
+725,Zentra Printer Paper Ream,2638.34,19,1925.73
+726,Orbit Stapler,20434.69,19,16777.71
+727,Urbano Notebook Pack,14455.95,19,12199.85
+728,Vivid Sticky Notes Pack,23389.87,19,19812.15
+729,Zentra Desk Organizer,6028.3,19,3685.11
+730,Craze Whiteboard,850.93,19,634.11
+731,Craze Desk Organizer,23716.96,19,18803.85
+732,Orbit File Folder Set,7829.97,19,5259.02
+733,AXOM Ball Pen Set,5930.69,19,3419.54
+734,AXOM File Folder Set,8393.59,19,6000.97
+735,Vivid Desk Organizer,17965.9,19,14760.3
+736,AXOM Whiteboard,694.54,19,489.87
+737,Nova Desk Organizer,21185.05,19,16974.19
+738,Vivid Ball Pen Set,17657.77,19,12921.05
+739,Vivid Ball Pen Set,7648.86,19,4189.72
+740,TrueLine Desk Organizer,19827.29,19,16580.21
+741,Zentra Whiteboard,17723.5,19,12347.82
+742,Urbano Whiteboard,16688.46,19,13101.43
+743,Kraft Sticky Notes Pack,18389.78,19,11090.53
+744,AXOM Desk Organizer,23727.38,19,19742.23
+745,Craze Sticky Notes Pack,954.71,19,678.64
+746,Craze Printer Paper Ream,2737.14,19,1843.91
+747,Nova Whiteboard,6064.2,19,5117.17
+748,Nova Desk Organizer,20568.3,19,15107.59
+749,Nimbus Whiteboard,433.18,19,248.38
+750,Vivid Ball Pen Set,6527.95,19,3510.81
+751,AXOM Notebook Pack,9740.54,19,7367.79
+752,TrueLine Desk Organizer,12403.09,19,7845.57
+753,Nova Sticky Notes Pack,20745.85,19,16099.93
+754,Zentra Printer Paper Ream,11364.49,19,8861.1
+755,Kraft Notebook Pack,648.94,19,383.78
+756,Nova Ball Pen Set,8643.93,19,7008.29
+757,Nova Desk Organizer,13744.1,19,11192.42
+758,Vivid Ball Pen Set,14911.66,19,10658.49
+759,AXOM File Folder Set,10868.38,19,7920.57
+760,Zentra Sticky Notes Pack,1480.86,19,912.04
+761,TrueLine Pendant Necklace,17475.34,20,13153.92
+762,Kraft Smart Watch Band,7540.41,20,4023.34
+763,Craze Bangles Set,13809.12,20,9277.41
+764,Vivid Analog Wrist Watch,244.82,20,129.92
+765,Urbano Cufflinks,2560.12,20,1465.5
+766,Nova Smart Watch Band,11918.23,20,6440.95
+767,Nimbus Bangles Set,12304.06,20,8998.75
+768,Orbit Silver Bracelet,9780.05,20,6160.03
+769,Vivid Bangles Set,4786.59,20,2468.04
+770,Nimbus Cufflinks,6695.51,20,5309.39
+771,Zentra Analog Wrist Watch,18843.04,20,13823.52
+772,Vivid Silver Bracelet,20233.28,20,13048.35
+773,Orbit Pendant Necklace,1665.45,20,1058.37
+774,Orbit Bangles Set,17223.64,20,14256.46
+775,Nimbus Pendant Necklace,7576.47,20,4835.16
+776,Orbit Analog Wrist Watch,14344.82,20,9767.19
+777,Nova Fashion Earrings,23738.98,20,15600.4
+778,Urbano Fashion Earrings,20240.25,20,11014.04
+779,Nova Bangles Set,24708.76,20,16119.69
+780,Craze Fashion Earrings,6558.48,20,5369.96
+781,Nova Silver Bracelet,9794.26,20,6259.26
+782,Kraft Ring Set,13064.25,20,10725.84
+783,Craze Analog Wrist Watch,14751.27,20,11411.43
+784,TrueLine Silver Bracelet,3868.61,20,2701.48
+785,Nova Silver Bracelet,14132.69,20,7565.89
+786,Orbit Smart Watch Band,22021.37,20,17777.03
+787,TrueLine Smart Watch Band,16421.47,20,11498.45
+788,AXOM Cufflinks,4429.16,20,2839.27
+789,AXOM Bangles Set,9985.45,20,8064.6
+790,AXOM Pendant Necklace,18681.88,20,15361.97
+791,AXOM Ring Set,8545.97,20,6646.87
+792,Kraft Smart Watch Band,21094.74,20,16883.85
+793,Urbano Silver Bracelet,3489.48,20,2934.57
+794,Vivid Cufflinks,6845.09,20,4421.04
+795,Urbano Silver Bracelet,11126.66,20,9120.54
+796,Nimbus Bangles Set,19023.41,20,15285.62
+797,Orbit Analog Wrist Watch,19818.54,20,10364.42
+798,Zentra Bangles Set,19545.83,20,13359.58
+799,Zentra Analog Wrist Watch,4940.17,20,3910.27
+800,Urbano Analog Wrist Watch,971.82,20,503.11
